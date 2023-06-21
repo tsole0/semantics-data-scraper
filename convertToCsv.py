@@ -1,6 +1,7 @@
 '''
 This is a sample text addition to test the usage of branches, pull requests, and merging on VS Code Studio
 
+This is a new addition. What will happen?
 '''
 
 import sqlite3
