@@ -7,6 +7,8 @@ This is a new addition. What will happen?
 import sqlite3
 import csv
 
+sample = r'Yay!'
+
 connection = sqlite3.connect("finalValues.db")
 # INITIALIZING SQL DATABASE CONNECTION
 cur = connection.cursor()
@@ -21,3 +23,4 @@ connection.close()
 
 print('Done.')
 print('Done again.')
+print(sample)
