@@ -19,5 +19,5 @@ with open("finalOutput.csv", 'w',newline='') as csv_file:
     csv_writer.writerows(cur)
 connection.close()
 
-print('Done.')
+print('Nay.')
 print('Done again.')
