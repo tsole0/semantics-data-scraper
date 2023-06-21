@@ -20,3 +20,4 @@ with open("finalOutput.csv", 'w',newline='') as csv_file:
 connection.close()
 
 print('Done.')
+print('Done again.')
