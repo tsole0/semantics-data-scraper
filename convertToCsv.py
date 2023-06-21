@@ -1,3 +1,8 @@
+'''
+This is a sample text addition to test the usage of branches, pull requests, and merging on VS Code Studio
+
+'''
+
 import sqlite3
 import csv
 
